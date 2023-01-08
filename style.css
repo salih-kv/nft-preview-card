@@ -37,6 +37,7 @@ a {
   background: var(--Very-dark-blue-card-BG);
   border-radius: 1rem;
   padding: 1.5rem;
+  box-shadow: hsla(216, 53%, 10%, 0.832) 0px 10px 1px 10px, hsla(216, 53%, 10%, 0.535) 0px 20px 1px 20px;
 }
 .card-image {
   height: 260px;
